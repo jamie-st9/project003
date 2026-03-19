@@ -1,0 +1,24 @@
+{
+  "project_name": "PandaTV KPI Dashboard — Desktop Web Prototype",
+  "project_type": "web_application",
+  "initialized_at": "2026-03-19T00:00:00Z",
+  "language": {
+    "conversation_language": "ko",
+    "agent_prompt_language": "en",
+    "documentation_language": "ko",
+    "code_comments": "en"
+  },
+  "team": {
+    "size": 1,
+    "mode": "solo"
+  },
+  "trust5": {
+    "tested": false,
+    "readable": true,
+    "unified": false,
+    "secured": false,
+    "trackable": false
+  },
+  "system_version": "2.0.0",
+  "fully_initialized": true
+}

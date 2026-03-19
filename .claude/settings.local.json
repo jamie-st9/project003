@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /c/Users/jamie/dev/_MyOi/.moai -type f \\\\\\(-name *.md -o -name *.yaml \\\\\\))",
+      "Bash(dd:*)",
+      "Bash(npm create:*)",
+      "Bash(npx --yes create-vite tempapp --template react)",
+      "Bash(cp tempapp/package.json .)",
+      "Bash(cp tempapp/vite.config.js .)",
+      "Bash(cp tempapp/index.html .)",
+      "Bash(cp tempapp/eslint.config.js .)",
+      "Bash(cp -r tempapp/public .)",
+      "Bash(npm install:*)",
+      "Bash(npx vite:*)",
+      "Bash(npx vercel:*)",
+      "Bash(npm run:*)",
+      "Bash(vercel:*)",
+      "Bash(git add:*)"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "context7",
+    "sequential-thinking",
+    "stitch"
+  ]
+}
