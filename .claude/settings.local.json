@@ -15,7 +15,9 @@
       "Bash(npx vercel:*)",
       "Bash(npm run:*)",
       "Bash(vercel:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh repo:*)"
     ]
   },
   "enabledMcpjsonServers": [
